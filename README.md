@@ -1,2 +1,2 @@
 # Drum-Music---JavaScript
-DOM manipulation and event listeners using JavaScript
+The drums can be detect mouse clicks or keyboard strokes, play however you like
